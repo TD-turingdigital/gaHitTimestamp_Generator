@@ -1,5 +1,5 @@
 homepage: "https://github.com/TD-turingdigital/gaHitTimestamp-Generator"
 documentation: "https://github.com/TD-turingdigital/gaHitTimestamp-Generator/blob/main/README.md"
 versions:
-  - sha: 7056779c42aaa22853763b8b40dc0328f5e27086
-    changeNotes: Initial release.
+  - sha: e3e17e126a1845f483a521fc33a7446ab23b083b
+    changeNotes: released version.
