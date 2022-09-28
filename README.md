@@ -1,1 +1,1 @@
-# gaHitTimestamp-Generator
+Generate the hit timestamp to GA.
